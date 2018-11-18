@@ -22,5 +22,4 @@ function printEvenLines(array) {
         return (index % 2 === 1)
     })
     console.log(filtered)
-
 }
